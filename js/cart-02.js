@@ -79,3 +79,4 @@ function updateCartHtml() {
         cartWrapper.insertAdjacentHTML('beforeend', cartAlert)
     }
 }
+updateCartHtml()
